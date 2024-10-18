@@ -27,7 +27,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/insurance-cost-prediction.git
+    git clone https://github.com/Deven-Mane1018/insurance-cost-prediction.git
     cd insurance-cost-prediction
     ```
 
